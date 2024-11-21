@@ -1,4 +1,3 @@
-Aqui está uma descrição bem detalhada do seu projeto para o `README.md` do GitHub:
 
 ---
 
